@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR2k0105/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0105/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 荊楚歲時記
+  date: '2015-08-24 22:45:43.267833'
+  source:
+    repository: kanripo
+    path: KR2k0105
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0105_000-WYG.yaml, hash: 'sha256:81e6d29bc95790fe666ef70f9c7d151c41b05ca4be30c812f6d17d461845e732'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0105_000-WYG.markers.yaml, hash: 'sha256:a1db96260e7a4668ae6ef9cbeb0d45a41071134c7713d6768c72b556bbbacb32'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0105_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 389
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0105_WYG_000-3a
+    span:
+    - body
+    - 389
+    - 7634
+  label: 荆楚嵗時記
+  type: section
+  level: 1
+hash: sha256:fb881a2b998f540b75949de87c230306b1fffde1d04b175269e3049c87c517de
