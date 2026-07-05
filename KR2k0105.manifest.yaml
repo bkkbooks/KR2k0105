@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0105_000.yaml, hash: 'sha256:2d97e4b97c2945b99477afb87f7beca05487c957302fe199a416af32b2747dd8'}
+  - {seq: 0, filename: KR2k0105_000.yaml, hash: 'sha256:201603b6928c8473b8f9b55a729c257500b7226d3f84c6c62327e839999f8f39'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0105_000.markers.yaml, hash: 'sha256:2b847d3b7f16b807460e66d286683c7550abc44243d838fd1e676eb613ee6bb4'}
+  - {seq: 0, role: markers, filename: assets/KR2k0105_000.markers.yaml, hash: 'sha256:023115a9f8b863aac03e7e37089e70bb9566496d31030c4e90f6361ceefa2638'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 荆楚嵗時記
   type: section
   level: 1
-hash: sha256:66122e1890cf3d8973b1f4ea7c84aac1fc801378b49714cc053b2542f1aff9f3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:238c561a3cd561565cafec60526e5fa22455dc5fa3221d236a50d3a7d8e24518
