@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0105/v1
 canonical_location: https://kanripo.org/bkk/KR2k0105/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 荊楚歲時記
   date: '2015-08-24 22:45:43.267833'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0105_000.yaml, hash: 'sha256:201603b6928c8473b8f9b55a729c257500b7226d3f84c6c62327e839999f8f39'}
+  - {seq: 0, filename: KR2k0105_000.yaml, hash: 'sha256:ff698d17233ed1d7eeacdc68e52067ae53b537399747de768a6025fb26cc2f0b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0105_000.markers.yaml, hash: 'sha256:023115a9f8b863aac03e7e37089e70bb9566496d31030c4e90f6361ceefa2638'}
+  - {seq: 0, role: markers, filename: assets/KR2k0105_000.markers.yaml, hash: 'sha256:fd24da72ca1d84b8bbeb94b4a7ff5b6ac25bceffb2a47b5ed35f60ce1125d400'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 荆楚嵗時記
   type: section
   level: 1
-hash: sha256:238c561a3cd561565cafec60526e5fa22455dc5fa3221d236a50d3a7d8e24518
+hash: sha256:2e68cb8f2b1d41dcafe0202090c2df392582736ffc1711576fbcff4d848f50e5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
