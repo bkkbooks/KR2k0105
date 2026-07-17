@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2k0105_000.yaml, hash: 'sha256:ff698d17233ed1d7eeacdc68e52067ae53b537399747de768a6025fb26cc2f0b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0105_000.markers.yaml, hash: 'sha256:fd24da72ca1d84b8bbeb94b4a7ff5b6ac25bceffb2a47b5ed35f60ce1125d400'}
+  - {seq: 0, role: markers, filename: assets/KR2k0105_000.markers.yaml, hash: 'sha256:c33d19fbc24f5f659e13e348c5df99d18dcee6fc0bee4cb3e77e4706c0cf67bd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 荆楚嵗時記
   type: section
   level: 1
-hash: sha256:2e68cb8f2b1d41dcafe0202090c2df392582736ffc1711576fbcff4d848f50e5
+hash: sha256:6b3b3631f569c503f135f11c3fa85721001e01d8e5a004b362fe82afd2583a7d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

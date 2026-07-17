@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2k0105_000-WYG.yaml, hash: 'sha256:81e6d29bc95790fe666ef70f9c7d151c41b05ca4be30c812f6d17d461845e732'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0105_000-WYG.markers.yaml, hash: 'sha256:a1db96260e7a4668ae6ef9cbeb0d45a41071134c7713d6768c72b556bbbacb32'}
+  - {seq: 0, role: markers, filename: assets/KR2k0105_000-WYG.markers.yaml, hash: 'sha256:f6ae50dcd601400ad5e8e138fd3362da2317f555507f01059ae0da60eab54d63'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 荆楚嵗時記
   type: section
   level: 1
-hash: sha256:fb881a2b998f540b75949de87c230306b1fffde1d04b175269e3049c87c517de
+hash: sha256:a970835a94937cfaf6f90f15f428b119d7b1930481ae4eba6c3c05396384e251
